@@ -1,5 +1,4 @@
-# works ampling
-Towards efficient and objective work sampling: recognizing workers' activities in site surveillance with two-stream convnets
+# Towards efficient and objective work sampling: recognizing workers' activities in site surveillance with two-stream convnets
 
 1) A demo concerning our idea can be found at https://www.youtube.com/watch?v=6wF8EM6cU6E
 
