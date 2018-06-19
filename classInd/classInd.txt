@@ -1,0 +1,16 @@
+1 all_measuring
+2 all_moving
+3 all_preparing
+4 all_resting
+5 formwork_fixing
+6 formwork_machining
+7 formwork_placing
+8 formwork_taking
+9 formwork_transporting
+10 rebar_connecting
+11 rebar_fixing
+12 rebar_machining
+13 rebar_placing
+14 rebar_taking
+15 rebar_transporting
+16 rebar_welding
